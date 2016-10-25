@@ -2,9 +2,9 @@
 
 ## Getting started
 Need to install CLaudia
-`npm install claudia -g
+`npm install claudia -g`
 
-Then set up AWS credentials in `~/aws/credentials
+Then set up AWS credentials in `~/aws/credentials`
  ```
  ## claudia-chatbot-mcy
 [claudia]
@@ -16,6 +16,6 @@ logger=process.stdout
 ```
 
 Set the encvironment variable to select the correct AWS profile
-`AWS_PROFILE=claudia
+`AWS_PROFILE=claudia`
 
-After that `npm install will add the other necessary files
+After that `npm install` will add the other necessary files
