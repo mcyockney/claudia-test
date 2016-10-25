@@ -20,8 +20,9 @@ coverage
 # Grunt intermediate storage (http://gruntjs.com/creating-plugins#storing-task-files)
 .grunt
 
-# Never store AWS credentials
+# Never store credentials
 .aws
+claudia.json
 
 # node-waf configuration
 .lock-wscript
