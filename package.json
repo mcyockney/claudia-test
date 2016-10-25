@@ -2,7 +2,7 @@
   "name": "claudia_test",
   "version": "1.0.0",
   "description": "test app for claudia",
-  "main": "bot.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
